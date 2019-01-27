@@ -1,6 +1,5 @@
-# Description
-A 2D Arcade game called 'UP'! [Quick Youtube video](https://youtu.be/9axXzYZFRkQ).<br>
-Your goal in this game is to fly up as high as you can. Beware the spikes!
+# UP!
+2D arcade game made for mobiles. [Quick Youtube video](https://youtu.be/9axXzYZFRkQ).<br>
 
 Check out project [code](Assets/Scripts).<br>
 Also checkout the art I've created for this game! [Link](ART.md).
