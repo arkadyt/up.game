@@ -1,18 +1,3 @@
-## Description
-
-2D arcade game made for mobiles. Inspired by Flappy Bird :).
-
-[YouTube video](https://youtu.be/9axXzYZFRkQ).
-[Source code](Assets/Scripts).
-[Game art](ART.md).
-
-## Download
-
-Android v0.1.0 (ARMv7): [Download](https://github.com/arkadyt/UP/raw/master/up_010.zip)
-
-## License
-
-```
 The MIT License (MIT)
 
 Copyright © 2020, Andrew Titenko
@@ -33,4 +18,3 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-```
